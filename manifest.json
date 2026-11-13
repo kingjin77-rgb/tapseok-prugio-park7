@@ -3,7 +3,7 @@
   "name": "탑석 푸르지오 파크7 입주예정자협의회",
   "short_name": "탑석 푸르지오 파크7",
   "description": "탑석 푸르지오 파크7 입주예정자협의회 플랫폼 · 법무법인 제이엘",
-  "start_url": "./#delegate",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
